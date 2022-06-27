@@ -1,12 +1,60 @@
-# :wave: Hello Homan!
-<img alt="cat_looking_XDD" src="https://user-images.githubusercontent.com/66136622/175810084-554d9dd6-fd5f-4836-a220-4892a7b00d7d.png"  width="480" height="270">
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&color=F7E253FF&width=180&height=30&vCenter=true&lines=Hello+Homan!+"/><br>
+<img alt="cat_looking_XDD" src="https://user-images.githubusercontent.com/66136622/175810084-554d9dd6-fd5f-4836-a220-4892a7b00d7d.png"  width="480" height="270"/>
+<br>
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kuyfkyf) 
+[![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg)](htttps://discord.gg/kuyfkyf)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukyfukyfuk) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yukyufk)
+[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/kmkk)
+  
+</h1>
 
+### Languages
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) 
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) 
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php) 
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+<img src="https://user-images.githubusercontent.com/66136622/175923495-8754638f-052d-4e9c-b9f8-d4faf5d3b15c.svg" width="30"/>
+### DB
+![Redis](https://img.shields.io/badge/redis-000.svg?style=for-the-badge&logo=redis) 
+![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql) 
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb) 
+![SQLite](https://img.shields.io/badge/sqlite-000.svg?style=for-the-badge&logo=sqlite) 
+### Hosting
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws) 
+![Azure](https://img.shields.io/badge/azure-000.svg?style=for-the-badge&logo=azure-devops) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000.svg?style=for-the-badge&logo=google-cloud) 
+![Heroku](https://img.shields.io/badge/heroku-000.svg?style=for-the-badge&logo=heroku) 
+![Netlify](https://img.shields.io/badge/netlify-000.svg?style=for-the-badge&logo=netlify) 
+![Vercel](https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel) 
+![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker) 
+### HTTP Servers
+![Nginx](https://img.shields.io/badge/nginx-000.svg?style=for-the-badge&logo=nginx) 
+![Apache](https://img.shields.io/badge/apache-000.svg?style=for-the-badge&logo=apache) 
+### Design
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-000.svg?style=for-the-badge&logo=adobephotoshop) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000.svg?style=for-the-badge&logo=Adobe%20Lightroom) 
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-000.svg?style=for-the-badge&logo=Adobe%20After%20Effects) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-000?style=for-the-badge&logo=gimp) 
+![Blender](https://img.shields.io/badge/blender-000.svg?style=for-the-badge&logo=blender) 
+### Editors
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kuyfkyf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukyfukyfuk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yukyufk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kmkk) 
+### OS
+![ububtu](https://img.shields.io/badge/ubuntu-000.svg?style=for-the-badge&logo=ubuntu) 
+![debian](https://img.shields.io/badge/debian-000.svg?style=for-the-badge&logo=debian) 
+![KDE](https://img.shields.io/badge/kde-000.svg?style=for-the-badge&logo=kde) 
+![manjaro](https://img.shields.io/badge/manjaro-000.svg?style=for-the-badge&logo=manjaro) 
+![pop](https://img.shields.io/badge/popos-000.svg?style=for-the-badge&logo=popos) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) 
 
-# 💻 Tech Stack:
-![C](https://camo.githubusercontent.com/6128025e1fd6d4a1df55513e934b56f8e804035fe326b488d0ec74e568c4d1e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465) ![CSS3](https://camo.githubusercontent.com/5ddd4e40fc2ba7f4d02ac5c9c1b4ca13ae0e5d4222d3771bc08ac0fa90125f80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333) ![HTML5](https://camo.githubusercontent.com/48f6fc8421dac466fe2e6ca00133837949c2fdaa84da6d35d6115b83d1ee2c3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35) ![JavaScript](https://camo.githubusercontent.com/4f802cee54b36dcf718c30cd8dced77654409b69f69207e3b2f63a12dd4e4633/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074) ![PHP]() ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=justxd22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
