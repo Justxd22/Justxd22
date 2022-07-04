@@ -46,15 +46,19 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-000?style=for-the-badge&logo=gimp) 
 ![Blender](https://img.shields.io/badge/blender-000.svg?style=for-the-badge&logo=blender) 
 ### Editors
+<img src="https://user-images.githubusercontent.com/66136622/177140912-1d4901bd-93dd-470f-9740-9b9212203d6c.svg" width="30"/> <img src="https://user-images.githubusercontent.com/66136622/177140923-7bb9c5d4-bfa4-4d97-b3dd-e6107d4e82f9.svg" width="30"/> <img src="https://user-images.githubusercontent.com/66136622/177140929-1bc56bfe-656f-4c26-8c8e-412bde2ee328.svg" width="30"/> <img src="https://user-images.githubusercontent.com/66136622/177140937-1cd2bda5-f263-47f8-999f-0285b3c09c89.svg" width="30"/>
+![nano](https://img.shields.io/badge/nano-000.svg?style=for-the-badge&logo=gnu-nano) 
+![astudio](https://img.shields.io/badge/Android%20studio-000?style=for-the-badge&logo=Android-studio) 
+
 
 ### OS
 ![ububtu](https://img.shields.io/badge/ubuntu-000.svg?style=for-the-badge&logo=ubuntu) 
 ![debian](https://img.shields.io/badge/debian-000.svg?style=for-the-badge&logo=debian) 
 ![KDE](https://img.shields.io/badge/kde-000.svg?style=for-the-badge&logo=kde) 
 ![manjaro](https://img.shields.io/badge/manjaro-000.svg?style=for-the-badge&logo=manjaro) 
-![pop](https://img.shields.io/badge/popos-000.svg?style=for-the-badge&logo=popos) 
+<img src="https://user-images.githubusercontent.com/66136622/177137719-717cd856-25b4-42b2-81c7-462403576627.svg" width="30"/>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi) 
-
+![android](https://img.shields.io/badge/android-000?style=for-the-badge&logo=android) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=justxd22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
