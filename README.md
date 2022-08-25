@@ -4,11 +4,10 @@
 <img alt="cat_looking_XDD" src="https://user-images.githubusercontent.com/66136622/175810084-554d9dd6-fd5f-4836-a220-4892a7b00d7d.png"  width="480" height="270"/>
 <br>
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kuyfkyf) 
-[![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg)](htttps://discord.gg/kuyfkyf)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukyfukyfuk) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yukyufk)
-[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/kmkk)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/578915464064008205) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.xd22) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_xd22)
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE.svg?logo=Twitter&logoColor=white)](https://twitter.com/_xd222)
   
 </h1>
 
