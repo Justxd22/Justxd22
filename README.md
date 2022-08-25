@@ -9,10 +9,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.xd22) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_xd22)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE.svg?logo=Twitter&logoColor=white)](https://twitter.com/_xd222)
-  
+
+
+
+![Cat-Typing-GifXXD](https://user-images.githubusercontent.com/66136622/186691859-4d88bf17-a239-4c5f-8c50-51dedbc401dd.gif)
+
 </h1>
-
-
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) 
@@ -21,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) 
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?styl=for-the-badge&logo=css3)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 <img src="https://user-images.githubusercontent.com/66136622/175923495-8754638f-052d-4e9c-b9f8-d4faf5d3b15c.svg" width="30"/>
 ### DB
