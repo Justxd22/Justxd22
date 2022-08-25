@@ -3,13 +3,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&color=F7E253FF&width=180&height=30&vCenter=true&lines=Hello+Homan!+"/><br>
 <img alt="cat_looking_XDD" src="https://user-images.githubusercontent.com/66136622/175810084-554d9dd6-fd5f-4836-a220-4892a7b00d7d.png"  width="480" height="270"/>
 <br>
-  
+
+[![Telegram](https://img.shields.io/badge/Telegram-00ACEE.svg?logo=Telegram&logoColor=white)](https://t.me/xd2222)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/578915464064008205) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.xd22) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_xd22)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE.svg?logo=Twitter&logoColor=white)](https://twitter.com/_xd222)
   
 </h1>
+
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) 
